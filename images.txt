@@ -21,3 +21,4 @@ prom/node-exporter:v1.8.1
 prom/prometheus:v2.53.0
 prom/alertmanager:v0.27.0
 rockylinux:9
+busybox:1.36
